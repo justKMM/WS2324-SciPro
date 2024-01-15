@@ -1,0 +1,76 @@
+Evaluation:  General Feedback 
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge (e.g., software, equations, data)
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+      - units - input and output numbers have units (e.g. N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clean, concise and clear (C^3)
+      - sentences - complete written when appropriate (e.g., within Markdown cells, docstrings, f-string)
+
+Neutral:
+•  Scholarship done okay, but with a few issues in the following:
+      - citing - when possible cite peer-reviewed papers or academic books, not websites
+
+Additional Notes: 
+  Ideas thoroughly presented, sentences well formed. Citations were made, and dates of visit were noted as well (except for 1 citation). Could be better by using peer reviewed academic works / papers as source instead of websites. Overall a job well done.
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - cell structure - logical ordering and mixture of markdown and code cells
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+Additional Notes: 
+  Codes were neatly separated into blocks, printing out the variables was also well used to further explain the thought process. Input datas were also included and well presented. Comments were also used, as well as proper exception handlings.
+
+
+Code Formatting:
+
+Positive:
+•  Formatting done well, which includes:
+      - blank lines - consistent and good usage
+      - f-string - properly used
+      - imports - libraries were alphabetized
+      - imports - libraries were listed at the notebook's top
+      - indentation - consistent and with 4 spaces
+      - line length - properly done (i.e., not longer than 110 characters)
+      - naming - descriptive, human readable objects/variables naming
+      - spacing - consistent and correct usage
+      - writing - clean, concise and clearly (C^3) written code
+
+Additional Notes: 
+  Code well formatted.
+
+
+User-defined Functions:
+
+Positive:
+•  Good use of the following:
+      - docstring - providing context; stating what the function does
+      - docstring - defining input objects
+      - docstring - defining returned object(s)
+      - internal check - for example, 'if not isinstance', 'raise' statement
+      - isolating ideas to user-defined functions
+      - type hinting
+
+Additional Notes: 
+  User defined functions well written, documented and also have sufficient internal checks.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - excellent
+
+Additional Notes: 
+  Excellent job. Would be better if more credible sources were utilized, but for not-so-complicated assignments / papers, it's not an absolute necessity. Overall a job well done.

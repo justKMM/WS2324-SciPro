@@ -1,0 +1,86 @@
+Evaluation:  General Feedback 
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge (e.g., software, equations, data)
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+•  Writing and communication done well, which includes:
+      - sentences - clean, concise and clear (C^3)
+      - sentences - complete written when appropriate (e.g., within Markdown cells, docstrings, f-string)
+
+Neutral:
+•  Scholarship done okay, but with a few issues in the following:
+      - citing - when possible cite peer-reviewed papers or academic books, not websites
+•  Writing and communication done okay, but with a few issues in the following:
+      - words - misspelled
+      - words - mixed English and German
+
+Additional Notes: 
+  Ideas thoroughly presented, sentences well formed. Citations were made, and dates of visit were noted as well. Could be better by using peer reviewed academic works / papers as source instead of websites. Units are, however, missing. Overall a job well done.
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+Neutral:
+•  Notebook could be slightly improved, which includes the following:
+      - cell structure - some additional separation of ideas (both code and markdown cells)
+      - code cells - separating some encoded ideas into different cells would have been logical
+      - markdown cells - some additional communication would have been more informative
+
+Additional Notes: 
+  Codes are somewhat not enough separated. Would be nice if ideas were a bit more "modularized", aka separated into cells, so that it can be easier to read, and also easier to trace errors / bugs / logical misunderstandings when needed to.
+
+
+Code Formatting:
+
+Positive:
+•  Formatting done well, which includes:
+      - blank lines - consistent and good usage
+      - f-string - properly used
+      - indentation - consistent and with 4 spaces
+      - naming - descriptive, human readable objects/variables naming
+      - spacing - consistent and correct usage
+      - writing - clean, concise and clearly (C^3) written code
+
+Negative:
+•  The following format issues were present in your code:
+      - imports - not listed together at the notebook's top
+      - line length - too long (i.e., longer than 110 characters)
+
+Additional Notes: 
+  Code not very good formatted. Some lines are too long, and some libraries are imported more than once. On the other hand f-strings have been utilized, there're enough blank lines and commentings. Names are human readable. Would be okay for normal programming, but rather not "enough" for an academic work.
+
+
+User-defined Functions:
+
+Positive:
+•  Good use of the following:
+      - docstring - providing context; stating what the function does
+      - isolating ideas to user-defined functions
+
+Negative:
+•  Your user-defined functions had the following problems:
+      - docstring - no statement about what the input variables are
+      - docstring - no statement about what the function returns
+      - internal checks - none provided (e.g., 'if not isinstance')
+      - type hinting - none provided
+
+Additional Notes: 
+  User defined functions a bit clustered and not informative. However docstrings are available, and functions' functionalities were explained. Ideas were also well separated into understandably sized functions.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - very good
+
+Additional Notes: 
+  A good job. Would be better if more credible sources were utilized, codes more separated into smaller blocks, more markdown cells were used to better communicate ideas, and some other points stated above. But overall got the job done.

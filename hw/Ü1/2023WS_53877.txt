@@ -1,0 +1,78 @@
+Evaluation:  General Feedback 
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge (e.g., software, equations, data)
+      - units - input and output numbers have units (e.g. N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clean, concise and clear (C^3)
+      - sentences - complete written when appropriate (e.g., within Markdown cells, docstrings, f-string)
+
+Neutral:
+•  Scholarship done okay, but with a few issues in the following:
+      - citing - websites should include the date visited (e.g., Wikipedia)
+
+Additional Notes: 
+  - Citations still not up to standard, only the website links are available.
+  - All variables are well documented with their respective units.
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+Neutral:
+•  Notebook could be slightly improved, which includes the following:
+      - cell structure - some additional separation of ideas (both code and markdown cells)
+      - markdown cells - some additional communication would have been more informative
+
+Additional Notes: 
+  - There is separation between different functions, but could be better. 
+  - Could have typed in the variables' names directly instead of manually typing in the float values when calling the function.   
+
+
+Code Formatting:
+
+Positive:
+•  Formatting done well, which includes:
+      - blank lines - consistent and good usage
+      - indentation - consistent and with 4 spaces
+      - naming - descriptive, human readable objects/variables naming
+      - spacing - consistent and correct usage
+      - writing - clean, concise and clearly (C^3) written code
+
+Negative:
+•  The following format issues were present in your code:
+      - f-string - not used (e.g., print statements)
+
+Additional Notes: 
+  - Clean and concise naming, as well as indentations and lines.
+  - No f-string used, but commas work fine too.
+  - Good use of lines to separate parts of the assignment.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - good
+
+Grading table: 
+
+                     Criteria |   Points Awarded |   Weighting Factor |   Percentage Awarded
+--------------------------------------------------------------------------------------------
+     1. Code quality & design |              6.0 |                  4 |               24.0 %
+  2. Code execution & results |              6.0 |                  4 |               24.0 %
+   3. Assignment requirements |              6.0 |                  4 |               24.0 %
+    4. Scientific programming |              6.0 |                  4 |               24.0 %
+                5. Creativity |              4.0 |                  1 |                4.0 %
+--------------------------------------------------------------------------------------------
+     Total Percentage Awarded |                - |                  - |                100 %
+            Final Note (Mark) |                - |                  - |             1.0 (A+)

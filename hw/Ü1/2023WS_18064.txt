@@ -1,0 +1,71 @@
+Evaluation:  General Feedback 
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge (e.g., software, equations, data)
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+      - units - input and output numbers have units (e.g. N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clean, concise and clear (C^3)
+      - sentences - complete written when appropriate (e.g., within Markdown cells, docstrings, f-string)
+
+Neutral:
+•  Scholarship done okay, but with a few issues in the following:
+      - citing - websites should include the date visited (e.g., Wikipedia)
+
+Additional Notes: 
+  - Citations are done well, date of access missing, only criticism is that they should be mentioned at the end of the paper. 
+  - All variables are well documented with their respective units.
+
+
+Jupyter Notebooks:
+
+Neutral:
+•  Notebook could be slightly improved, which includes the following:
+      - cell structure - some additional separation of ideas (both code and markdown cells)
+      - code cells - separating some encoded ideas into different cells would have been logical
+      - markdown cells - some additional communication would have been more informative
+
+Additional Notes: 
+  - There is separation between different encoded cells, but the communication in markdown cells is somewhat lacking. 
+  - Jupyter Notebook could be better utilized for a clearer presentation of workflow (i.e. using different text sizes, some spaces / lines here and there to separate the different parts, etc). For example the header (your ID and Date of writing the paper) should be separated from the rest of the paper, because these are not part of the scientific research done.   
+
+
+Code Formatting:
+
+Positive:
+•  Formatting done well, which includes:
+      - spacing - consistent and correct usage
+      - writing - clean, concise and clearly (C^3) written code
+
+Negative:
+•  The following format issues were present in your code:
+      - f-string - not used (e.g., print statements)
+      - naming - object/variable is not descriptive or human readable (e.g., using 'x' or 'i')
+
+Additional Notes: 
+  - Naming scheme is weird and hurts me mentally (please don't start the variables' names with capitalized letters).
+  - No f-string used, but commas work fine too.   
+
+
+General Feedback:
+
+Neutral:
+•  Overall, your work done on this assignment was:
+      - okay  - there is notable room for improvement
+
+Grading table: 
+
+                     Criteria |   Points Awarded |   Weighting Factor |   Percentage Awarded
+--------------------------------------------------------------------------------------------
+     1. Code quality & design |              6.0 |                  4 |               24.0 %
+  2. Code execution & results |              6.0 |                  4 |               24.0 %
+   3. Assignment requirements |              6.0 |                  4 |               24.0 %
+    4. Scientific programming |              6.0 |                  4 |               24.0 %
+                5. Creativity |              4.0 |                  1 |                4.0 %
+--------------------------------------------------------------------------------------------
+     Total Percentage Awarded |                - |                  - |                100 %
+            Final Note (Mark) |                - |                  - |             1.0 (A+)

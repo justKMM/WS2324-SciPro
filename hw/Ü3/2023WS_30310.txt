@@ -1,0 +1,70 @@
+Evaluation:  General Feedback 
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge (e.g., software, equations, data)
+      - units - input and output numbers have units (e.g. N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clean, concise and clear (C^3)
+      - sentences - complete written when appropriate (e.g., within Markdown cells, docstrings, f-string)
+
+Negative:
+•  Scholarship done poorly, which includes the following:
+      - citing - missing reference numbers (e.g., [1, 2]) within your writing
+
+Additional Notes: 
+  Colleague already includes citing in the work, and peer - reviewed academic works were already utilized instead of only websites. However reference numbers are still missing (connecting knowledges / formulars / quotes used in the paper to their corresponding references) 
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - cell structure - logical ordering and mixture of markdown and code cells
+      - code cells - good separation of encode ideas
+      - markdown cells - good usage to communicate ideas, thoughts or workflow
+
+Additional Notes: 
+  Markdown cells used well for communicating ideas and separating them into easy to see and understand parts. Jupyter Notebook's functionalities used well.
+
+
+Code Formatting:
+
+Positive:
+•  Formatting done well, which includes:
+      - blank lines - consistent and good usage
+      - f-string - properly used
+      - indentation - consistent and with 4 spaces
+      - line length - properly done (i.e., not longer than 110 characters)
+      - spacing - consistent and correct usage
+      - writing - clean, concise and clearly (C^3) written code
+
+Additional Notes: 
+  Codes well written, with proper usage of comments. 
+
+
+User-defined Functions:
+
+Positive:
+•  Good use of the following:
+      - docstring - providing context; stating what the function does
+      - docstring - defining input objects
+      - docstring - defining returned object(s)
+      - isolating ideas to user-defined functions
+
+Additional Notes: 
+  Ideas well divided into separate functions.
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - excellent
+
+Additional Notes: 
+  Paper aesthetically pleasant (very important cause reading scientific papers is boring). Could do reference part better by documenting in detailed which source was utilized in each part of the paper (it's time consuming and annoying I know sorry I had to do it too). But overall good work.

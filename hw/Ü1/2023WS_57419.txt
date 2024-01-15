@@ -1,0 +1,76 @@
+Evaluation:  General Feedback 
+
+
+Academic Scholarship (Citations and Writing):
+
+Positive:
+•  Scholarship done well, which includes:
+      - citing - source of information and knowledge (e.g., software, equations, data)
+      - citing - proper ordering within the written text (e.g., ...[1-2]...[3] and not ...[3-4]...[1]...)
+      - units - input and output numbers have units (e.g. N, kJ, m/s, Hz)
+•  Writing and communication done well, which includes:
+      - sentences - clean, concise and clear (C^3)
+
+Neutral:
+•  Writing and communication done okay, but with a few issues in the following:
+      - sentences - unclear
+
+Additional Notes: 
+  - Citations done extremely well, with clear and concise notations throughout the submitted assignment.
+  - All variables are well documented with their respective units.
+
+
+Jupyter Notebooks:
+
+Positive:
+•  Notebook is done well, which includes the following:
+      - cell structure - good usage to separate ideas (e.g., thoughts, tasks/subtasks, user-defined functions)
+      - cell structure - logical ordering and mixture of markdown and code cells
+      - code cells - good separation of encode ideas
+
+Neutral:
+•  Notebook could be slightly improved, which includes the following:
+      - markdown cells - some additional communication would have been more informative
+
+Additional Notes: 
+  - Good separation between different functions. 
+  - Could be better by more detailed communication of thoughts at each stage instead of only at the beginning.   
+
+
+Code Formatting:
+
+Positive:
+•  Formatting done well, which includes:
+      - blank lines - consistent and good usage
+      - indentation - consistent and with 4 spaces
+      - naming - descriptive, human readable objects/variables naming
+      - spacing - consistent and correct usage
+      - writing - clean, concise and clearly (C^3) written code
+
+Negative:
+•  The following format issues were present in your code:
+      - f-string - not used (e.g., print statements)
+
+Additional Notes: 
+  - Clean and concise naming, as well as indentations and lines.
+  - Could be more communicative by utilizing the f-string to express the output in a complete sentence, instead of just the output value.   
+
+
+General Feedback:
+
+Positive:
+•  Overall, your work done on this assignment was:
+      - very good
+
+Grading table: 
+
+                     Criteria |   Points Awarded |   Weighting Factor |   Percentage Awarded
+--------------------------------------------------------------------------------------------
+     1. Code quality & design |              6.0 |                  4 |               24.0 %
+  2. Code execution & results |              6.0 |                  4 |               24.0 %
+   3. Assignment requirements |              6.0 |                  4 |               24.0 %
+    4. Scientific programming |              6.0 |                  4 |               24.0 %
+                5. Creativity |              4.0 |                  1 |                4.0 %
+--------------------------------------------------------------------------------------------
+     Total Percentage Awarded |                - |                  - |                100 %
+            Final Note (Mark) |                - |                  - |             1.0 (A+)
